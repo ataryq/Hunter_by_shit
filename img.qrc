@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../../../../Qt/Tools/QtCreator/bin/build-hunter_by_shit_2-Desktop_Qt_5_4_0_MinGW_32bit-Release/full_game/img/img.xml</file>
+        <file>../../../../../../Qt/Tools/QtCreator/bin/build-hunter_by_shit_2-Desktop_Qt_5_4_0_MinGW_32bit-Release/full_game/img/Komnata_old.png</file>
+        <file>../../../../../../Qt/Tools/QtCreator/bin/build-hunter_by_shit_2-Desktop_Qt_5_4_0_MinGW_32bit-Release/full_game/img/UNITAZ.png</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/backgrnd.png</file>
+        <file>img/empty.png</file>
+        <file>img/gray_background.png</file>
+        <file>img/green_background.png</file>
+        <file>img/health_background.png</file>
+        <file>img/health_point.png</file>
+        <file>img/idle.png</file>
+        <file>img/img.xml</file>
+        <file>img/KAKAShKA.png</file>
+        <file>img/KAKAShKA_upala.png</file>
+        <file>img/Komnata.png</file>
+        <file>img/Komnata_old.png</file>
+        <file>img/Komnata_small.png</file>
+        <file>img/menyu.png</file>
+        <file>img/ship.png</file>
+        <file>img/UNITAZ.png</file>
+        <file>img/yel__backgrnd.png</file>
+        <file>img/ZAD.png</file>
+    </qresource>
+</RCC>

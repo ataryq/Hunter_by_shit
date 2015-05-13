@@ -1,0 +1,125 @@
+<RCC>
+    <qresource prefix="/immage">
+        <file>img/backgrnd.png</file>
+        <file>img/empty.png</file>
+        <file>img/gray_background.png</file>
+        <file>img/green_background.png</file>
+        <file>img/health_background.png</file>
+        <file>img/health_point.png</file>
+        <file>img/img.xml</file>
+        <file>img/Komnata.png</file>
+        <file>img/menyu.png</file>
+        <file>img/ship.png</file>
+        <file>img/yel__backgrnd.png</file>
+        <file>img/ZAD.png</file>
+        <file>img/back_records.png</file>
+        <file>img/back_finish.png</file>
+    </qresource>
+    <qresource prefix="/ass/eat">
+        <file>img/ass/eat/eat_1.png</file>
+        <file>img/ass/eat/eat_2.png</file>
+        <file>img/ass/eat/eat_3.png</file>
+        <file>img/ass/eat/eat_4.png</file>
+        <file>img/ass/eat/eat_5.png</file>
+    </qresource>
+    <qresource prefix="/ass/move">
+        <file>img/ass/move/move_1.png</file>
+        <file>img/ass/move/move_2.png</file>
+    </qresource>
+    <qresource prefix="/other_item/health/falling">
+        <file>img/other_item/health/falling/1.png</file>
+        <file>img/other_item/health/falling/2.png</file>
+        <file>img/other_item/health/falling/3.png</file>
+        <file>img/other_item/health/falling/4.png</file>
+        <file>img/other_item/health/falling/5.png</file>
+        <file>img/other_item/health/falling/6.png</file>
+        <file>img/other_item/health/falling/7.png</file>
+        <file>img/other_item/health/falling/8.png</file>
+    </qresource>
+    <qresource prefix="/other_item/health/fell_off">
+        <file>img/other_item/health/fell_off/1.png</file>
+        <file>img/other_item/health/fell_off/2.png</file>
+        <file>img/other_item/health/fell_off/3.png</file>
+        <file>img/other_item/health/fell_off/4.png</file>
+        <file>img/other_item/health/fell_off/5.png</file>
+        <file>img/other_item/health/fell_off/6.png</file>
+        <file>img/other_item/health/fell_off/7.png</file>
+    </qresource>
+    <qresource prefix="/other_item/spoon/falling">
+        <file>img/other_item/spoon/falling/1.png</file>
+        <file>img/other_item/spoon/falling/2.png</file>
+        <file>img/other_item/spoon/falling/3.png</file>
+        <file>img/other_item/spoon/falling/4.png</file>
+        <file>img/other_item/spoon/falling/5.png</file>
+        <file>img/other_item/spoon/falling/6.png</file>
+        <file>img/other_item/spoon/falling/7.png</file>
+        <file>img/other_item/spoon/falling/8.png</file>
+    </qresource>
+    <qresource prefix="/other_item/spoon/fell_off">
+        <file>img/other_item/spoon/fell_off/1.png</file>
+        <file>img/other_item/spoon/fell_off/2.png</file>
+        <file>img/other_item/spoon/fell_off/3.png</file>
+        <file>img/other_item/spoon/fell_off/4.png</file>
+        <file>img/other_item/spoon/fell_off/5.png</file>
+        <file>img/other_item/spoon/fell_off/6.png</file>
+        <file>img/other_item/spoon/fell_off/7.png</file>
+        <file>img/other_item/spoon/fell_off/8.png</file>
+        <file>img/other_item/spoon/fell_off/9.png</file>
+    </qresource>
+    <qresource prefix="/player/eat">
+        <file>img/player/eat/eat_1.png</file>
+        <file>img/player/eat/eat_2.png</file>
+        <file>img/player/eat/eat_3.png</file>
+        <file>img/player/eat/eat_4.png</file>
+    </qresource>
+    <qresource prefix="/player/move">
+        <file>img/player/move/move_1.png</file>
+        <file>img/player/move/move_2.png</file>
+    </qresource>
+    <qresource prefix="/shits/diarrhea/falling">
+        <file>img/shits/diarrhea/falling/1.png</file>
+        <file>img/shits/diarrhea/falling/2.png</file>
+        <file>img/shits/diarrhea/falling/3.png</file>
+        <file>img/shits/diarrhea/falling/4.png</file>
+        <file>img/shits/diarrhea/falling/5.png</file>
+        <file>img/shits/diarrhea/falling/6.png</file>
+        <file>img/shits/diarrhea/falling/7.png</file>
+        <file>img/shits/diarrhea/falling/8.png</file>
+    </qresource>
+    <qresource prefix="/shits/diarrhea/fell_off">
+        <file>img/shits/diarrhea/fell_off/1.png</file>
+        <file>img/shits/diarrhea/fell_off/2.png</file>
+        <file>img/shits/diarrhea/fell_off/3.png</file>
+        <file>img/shits/diarrhea/fell_off/4.png</file>
+        <file>img/shits/diarrhea/fell_off/5.png</file>
+        <file>img/shits/diarrhea/fell_off/6.png</file>
+        <file>img/shits/diarrhea/fell_off/7.png</file>
+        <file>img/shits/diarrhea/fell_off/8.png</file>
+        <file>img/shits/diarrhea/fell_off/9.png</file>
+        <file>img/shits/diarrhea/fell_off/10.png</file>
+        <file>img/shits/diarrhea/fell_off/11.png</file>
+        <file>img/shits/diarrhea/fell_off/12.png</file>
+        <file>img/shits/diarrhea/fell_off/13.png</file>
+        <file>img/shits/diarrhea/fell_off/14.png</file>
+    </qresource>
+    <qresource prefix="/shits/simple/falling">
+        <file>img/shits/simple/falling/1.png</file>
+        <file>img/shits/simple/falling/2.png</file>
+        <file>img/shits/simple/falling/3.png</file>
+        <file>img/shits/simple/falling/4.png</file>
+        <file>img/shits/simple/falling/5.png</file>
+        <file>img/shits/simple/falling/6.png</file>
+        <file>img/shits/simple/falling/7.png</file>
+        <file>img/shits/simple/falling/8.png</file>
+    </qresource>
+    <qresource prefix="/shits/simple/fell_off">
+        <file>img/shits/simple/fell_off/1.png</file>
+        <file>img/shits/simple/fell_off/2.png</file>
+        <file>img/shits/simple/fell_off/3.png</file>
+        <file>img/shits/simple/fell_off/4.png</file>
+        <file>img/shits/simple/fell_off/5.png</file>
+        <file>img/shits/simple/fell_off/6.png</file>
+        <file>img/shits/simple/fell_off/7.png</file>
+        <file>img/shits/simple/fell_off/8.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,87 @@
+<ITEMS>
+
+	<DIARRHEA>
+		<FALLING speed = "50">
+			<IMG path = ":/shits/diarrhea/falling/img/shits/diarrhea/falling/1.png"/>
+			<IMG path = ":/shits/diarrhea/falling/img/shits/diarrhea/falling/3.png"/>
+			<IMG path = ":/shits/diarrhea/falling/img/shits/diarrhea/falling/6.png"/>
+			<IMG path = ":/shits/diarrhea/falling/img/shits/diarrhea/falling/8.png"/>
+		</FALLING>
+		<FELL_OFF speed = "60">
+			<IMG path = ":/shits/diarrhea/fell_off/img/shits/diarrhea/fell_off/1.png"/>
+			<IMG path = ":/shits/diarrhea/fell_off/img/shits/diarrhea/fell_off/4.png"/>
+			<IMG path = ":/shits/diarrhea/fell_off/img/shits/diarrhea/fell_off/10.png"/>
+			<IMG path = ":/shits/diarrhea/fell_off/img/shits/diarrhea/fell_off/14.png"/>
+		</FELL_OFF>
+	</DIARRHEA>
+	
+	<SIMPLE_SHIT>
+		<FALLING speed = "50">
+			<IMG path = ":/shits/simple/falling/img/shits/simple/falling/1.png"/>
+			<IMG path = ":/shits/simple/falling/img/shits/simple/falling/2.png"/>
+			<IMG path = ":/shits/simple/falling/img/shits/simple/falling/3.png"/>
+			<IMG path = ":/shits/simple/falling/img/shits/simple/falling/4.png"/>
+			<IMG path = ":/shits/simple/falling/img/shits/simple/falling/5.png"/>
+			<IMG path = ":/shits/simple/falling/img/shits/simple/falling/6.png"/>
+			<IMG path = ":/shits/simple/falling/img/shits/simple/falling/7.png"/>
+			<IMG path = ":/shits/simple/falling/img/shits/simple/falling/8.png"/>
+		</FALLING>
+		<FELL_OFF speed = "60">
+			<IMG path = ":/shits/simple/fell_off/img/shits/simple/fell_off/1.png"/>
+			<IMG path = ":/shits/simple/fell_off/img/shits/simple/fell_off/2.png"/>
+			<IMG path = ":/shits/simple/fell_off/img/shits/simple/fell_off/3.png"/>
+			<IMG path = ":/shits/simple/fell_off/img/shits/simple/fell_off/4.png"/>
+			<IMG path = ":/shits/simple/fell_off/img/shits/simple/fell_off/5.png"/>
+			<IMG path = ":/shits/simple/fell_off/img/shits/simple/fell_off/6.png"/>
+			<IMG path = ":/shits/simple/fell_off/img/shits/simple/fell_off/7.png"/>
+			<IMG path = ":/shits/simple/fell_off/img/shits/simple/fell_off/8.png"/>
+		</FELL_OFF>
+	</SIMPLE_SHIT>
+	
+	<SPOON>
+		<FALLING speed = "50">
+			<IMG path = ":/other_item/spoon/falling/img/other_item/spoon/falling/1.png"/>
+			<IMG path = ":/other_item/spoon/falling/img/other_item/spoon/falling/2.png"/>
+			<IMG path = ":/other_item/spoon/falling/img/other_item/spoon/falling/3.png"/>
+			<IMG path = ":/other_item/spoon/falling/img/other_item/spoon/falling/4.png"/>
+			<IMG path = ":/other_item/spoon/falling/img/other_item/spoon/falling/5.png"/>
+			<IMG path = ":/other_item/spoon/falling/img/other_item/spoon/falling/6.png"/>
+			<IMG path = ":/other_item/spoon/falling/img/other_item/spoon/falling/7.png"/>
+			<IMG path = ":/other_item/spoon/falling/img/other_item/spoon/falling/8.png"/>
+		</FALLING>
+		<FELL_OFF speed = "60">
+			<IMG path = ":/other_item/spoon/fell_off/img/other_item/spoon/fell_off/1.png"/>
+			<IMG path = ":/other_item/spoon/fell_off/img/other_item/spoon/fell_off/2.png"/>
+			<IMG path = ":/other_item/spoon/fell_off/img/other_item/spoon/fell_off/3.png"/>
+			<IMG path = ":/other_item/spoon/fell_off/img/other_item/spoon/fell_off/4.png"/>
+			<IMG path = ":/other_item/spoon/fell_off/img/other_item/spoon/fell_off/5.png"/>
+			<IMG path = ":/other_item/spoon/fell_off/img/other_item/spoon/fell_off/6.png"/>
+			<IMG path = ":/other_item/spoon/fell_off/img/other_item/spoon/fell_off/7.png"/>
+			<IMG path = ":/other_item/spoon/fell_off/img/other_item/spoon/fell_off/8.png"/>
+			<IMG path = ":/other_item/spoon/fell_off/img/other_item/spoon/fell_off/9.png"/>
+		</FELL_OFF>
+	</SPOON>
+	
+	<HEALTH_POINT>
+		<FALLING speed = "50">
+			<IMG path = ":/other_item/health/falling/img/other_item/health/falling/1.png"/>
+			<IMG path = ":/other_item/health/falling/img/other_item/health/falling/2.png"/>
+			<IMG path = ":/other_item/health/falling/img/other_item/health/falling/3.png"/>
+			<IMG path = ":/other_item/health/falling/img/other_item/health/falling/4.png"/>
+			<IMG path = ":/other_item/health/falling/img/other_item/health/falling/5.png"/>
+			<IMG path = ":/other_item/health/falling/img/other_item/health/falling/6.png"/>
+			<IMG path = ":/other_item/health/falling/img/other_item/health/falling/7.png"/>
+			<IMG path = ":/other_item/health/falling/img/other_item/health/falling/8.png"/>
+		</FALLING>
+		<FELL_OFF speed = "60">
+			<IMG path = ":/other_item/health/fell_off/img/other_item/health/fell_off/1.png"/>
+			<IMG path = ":/other_item/health/fell_off/img/other_item/health/fell_off/2.png"/>
+			<IMG path = ":/other_item/health/fell_off/img/other_item/health/fell_off/3.png"/>
+			<IMG path = ":/other_item/health/fell_off/img/other_item/health/fell_off/4.png"/>
+			<IMG path = ":/other_item/health/fell_off/img/other_item/health/fell_off/5.png"/>
+			<IMG path = ":/other_item/health/fell_off/img/other_item/health/fell_off/6.png"/>
+			<IMG path = ":/other_item/health/fell_off/img/other_item/health/fell_off/7.png"/>
+		</FELL_OFF>
+	</HEALTH_POINT>
+	
+</ITEMS>
