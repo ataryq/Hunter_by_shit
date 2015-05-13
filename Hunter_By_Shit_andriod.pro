@@ -14,7 +14,7 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = Hunter_By_Shit_andriod
 TEMPLATE = app
-ICON = resources/icon.png
+ICON = :/immage/img/icon.png
 
 SOURCES += main.cpp \
     aniamtion.cpp \
