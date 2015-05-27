@@ -1,0 +1,10 @@
+Package: HunterByShit
+Version: 1.0-1
+Provides: HunterByShit
+Maintainer: Igor Kuvhinov <hunter_by_shit@mail.ru>
+Architecture: all
+Section: devel
+Description: Game Hunter by shit
+Depends: qtdeclarative5-dev, qtdeclarative5-dev-tools, libqt5declarative5, qtquick1-5-dev, qtscript5-dev, libqt5svg5-dev, qttools5-dev-tools, qttools5-dev, libqt5opengl5-dev, qtquick1-qml-plugins
+Build-Depends: g++, make, qt5-qmake
+Priority: optional
